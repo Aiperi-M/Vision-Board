@@ -1,0 +1,88 @@
+
+body {
+	background: #E8E8E8;
+	font-size: 20px;
+	
+	
+} 
+
+strong {
+	font-size: 38px;
+}
+
+span {
+	background-color: #FFF44F;
+	font-size: 20px;
+}
+
+#vision-board {
+	background: url('../img/background.png');
+	background-size: cover;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	width: 1200px;
+	height: 850px;
+	overflow: auto;
+	box-sizing: border-box;
+	margin: 50px auto;
+
+}
+
+
+.block {
+	box-sizing: border-box;
+	float: left;
+	
+	width: 400px;
+	
+}
+
+.small-block {
+	height: 210px;
+	padding: 25px;
+
+}
+
+.large-block {
+	height: 430px;
+	padding: 70px 40px;
+}
+
+.center-align {
+	text-align: center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.right-align {
+	text-align: right;
+	display: block;
+    display: block;
+    margin: auto;
+}
+
+.light-bg {
+	background: #FFFFFF;
+}
+
+.dark-bg {
+	background: #3B3B3B;
+}
+
+.title {
+	color: #FFFFFF;
+	font-weight: normal;
+	font-family: 'Permanent Marker', cursive;
+    font-size: 38px;
+    line-height: 0.5;
+}
+
+.subtitle {
+	color: #FFFFFF;
+	font-size: 38px;
+	line-height: 0.5;
+}
+
+
+
